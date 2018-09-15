@@ -1,0 +1,60 @@
+Logging Framework
+http://www.springboottutorial.com/logging-with-spring-boot-logback-slf4j-and-log4j
+
+Spring security-oauth and authentication
+https://dzone.com/articles/secure-spring-rest-with-spring-security-and-oauth2
+https://spring.io/guides/tutorials/spring-boot-oauth2/
+http://websystique.com/spring-security/secure-spring-rest-api-using-oauth2/
+https://www.baeldung.com/rest-api-spring-oauth2-angularjs
+https://dzone.com/articles/spring-security-4-authenticate-and-authorize-users
+https://www.journaldev.com/8748/spring-security-role-based-access-authorization-example
+https://spring.io/guides/topicals/spring-security-architecture/
+
+
+1.	Mockito Sample Code – attached.( \\in-blr-cmdp01\REMINST\Materials\Mockito&Junit)
+2.	Getting the services after service registration in eureka  
+a.	https://www.dineshonjava.com/microservices-with-spring-boot/
+b.	Demo(\\in-blr-cmdp01\REMINST\Materials\MicroservicesSimpleDemo)
+3.	Working with mongodb –links and videos
+•	             https://www.guru99.com/mongodb-tutorials.html
+o	https://www.tutorialspoint.com/mongodb/
+4.	Working with mockito and junit simultaneously --links and videos(materials and ebook enclosed in shared folder)
+https://examples.javacodegeeks.com/core-java/mockito/mockito-mock-database-connection-example/
+5.	Spring and Hiberate with link and examples
+https://www.journaldev.com/3524/spring-hibernate-integration-example-tutorial
+https://www.javatpoint.com/hibernate-and-spring-integration
+http://websystique.com/spring/spring4-hibernate4-mysql-maven-integration-example-using-annotations/
+
+6.	Microservice Controller testing ---sample videos/code
+a.	http://www.springboottutorial.com/unit-testing-for-spring-boot-rest-services(apply the logic in your microservices)
+b.	http://www.springboottutorial.com/spring-boot-projects-with-code-examples(sample codes)
+
+
+Zuul API Gateway
+
+https://dzone.com/articles/microservices-communication-zuul-api-gateway-1
+https://sivalabs.in/2018/03/microservices-part-5-spring-cloud-zuul-proxy-as-api-gateway/
+
+12noon to 1.30pm => Sivalab’s microservice theory part 1 to part 3 
+https://sivalabs.in/2018/03/microservices-using-springboot-spring-cloud-part-1-overview/
+
+
+1.30pm to 2pm => LUNCH
+
+2pm to 3pm => MicroServices – Part 4 : Spring Cloud Circuit Breaker using Netflix Hystrix
+
+3pm to 4pm => MicroServices – Part 5 : Spring Cloud Zuul Proxy as API Gateway
+
+4pm to 5pm => MicroServices – Part 6 : Distributed Tracing with Spring Cloud Sleuth and Zipkin
+
+5pm to 6pm => Study and Analysis of the code: https://github.com/sivaprasadreddy/spring-boot-microservices-series
+
+Dear Abhrak,
+https://www.youtube.com/watch?v=Iaz2apI0Ago
+https://www.youtube.com/watch?v=-IOBubnPgfg
+
+Microservice Development
+https://github.com/TechPrimers/stock-price-viewer-microservices-part2-final
+
+
+Zuul tutorial:  https://howtodoinjava.com/spring-cloud/spring-cloud-api-gateway-zuul/
